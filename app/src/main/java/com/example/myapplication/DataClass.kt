@@ -10,7 +10,7 @@ data class DataClass(
 )
 
 fun main(){
-    val data = DataClass(1, " Indra@gmail.com")
+    val data = DataClass(1, " Zahro@gmail.com")
     println(data)
 
     // Fungsi Equals
